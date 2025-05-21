@@ -1,0 +1,16 @@
+2025-05-21 21:44:03,912 INFO    MainThread:28340 [wandb_setup.py:_flush():68] Current SDK version is 0.19.1
+2025-05-21 21:44:03,913 INFO    MainThread:28340 [wandb_setup.py:_flush():68] Configure stats pid to 28340
+2025-05-21 21:44:03,913 INFO    MainThread:28340 [wandb_setup.py:_flush():68] Loading settings from C:\Users\AKSHAT SHAW\.config\wandb\settings
+2025-05-21 21:44:03,913 INFO    MainThread:28340 [wandb_setup.py:_flush():68] Loading settings from c:\Users\AKSHAT SHAW\OneDrive - iitr.ac.in\Desktop\Spark_25_project\wandb\settings
+2025-05-21 21:44:03,913 INFO    MainThread:28340 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-05-21 21:44:03,915 INFO    MainThread:28340 [wandb_init.py:_log_setup():528] Logging user logs to c:\Users\AKSHAT SHAW\OneDrive - iitr.ac.in\Desktop\Spark_25_project\wandb\run-20250521_214403-ammsx366\logs\debug.log
+2025-05-21 21:44:03,917 INFO    MainThread:28340 [wandb_init.py:_log_setup():529] Logging internal logs to c:\Users\AKSHAT SHAW\OneDrive - iitr.ac.in\Desktop\Spark_25_project\wandb\run-20250521_214403-ammsx366\logs\debug-internal.log
+2025-05-21 21:44:03,920 INFO    MainThread:28340 [wandb_init.py:init():644] calling init triggers
+2025-05-21 21:44:03,921 INFO    MainThread:28340 [wandb_init.py:init():650] wandb.init called with sweep_config: {}
+config: {'epochs': 1000, 'batch_size': 64, 'lr': 0.0001, 'optimizer': 'Adam', 'loss_fn': 'MSELoss', 'model': 'LSTM'}
+2025-05-21 21:44:03,922 INFO    MainThread:28340 [wandb_init.py:init():675] wandb.init() called when a run is still active
+2025-05-21 21:44:03,973 INFO    MainThread:28340 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-21 21:44:03,973 INFO    MainThread:28340 [wandb_init.py:_pause_backend():439] pausing backend
+2025-05-21 21:44:04,716 INFO    MainThread:28340 [wandb_init.py:_resume_backend():444] resuming backend
+2025-05-21 22:36:49,421 INFO    MainThread:28340 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-21 22:36:49,432 INFO    MainThread:28340 [wandb_init.py:_pause_backend():439] pausing backend
