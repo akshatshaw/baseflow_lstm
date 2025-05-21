@@ -1,0 +1,11 @@
+{"time":"2025-05-21T21:01:59.6914029+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-05-21T21:01:59.6926093+05:30","level":"INFO","msg":"created symlink","path":"c:\\Users\\AKSHAT SHAW\\OneDrive - iitr.ac.in\\Desktop\\Spark_25_project\\wandb\\run-20250521_210159-dw501k11\\logs\\debug-core.log"}
+{"time":"2025-05-21T21:01:59.9650975+05:30","level":"INFO","msg":"created new stream","id":"dw501k11"}
+{"time":"2025-05-21T21:01:59.9670786+05:30","level":"INFO","msg":"stream: started","id":"dw501k11"}
+{"time":"2025-05-21T21:01:59.9669438+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dw501k11"}
+{"time":"2025-05-21T21:01:59.9670786+05:30","level":"INFO","msg":"handler: started","stream_id":"dw501k11"}
+{"time":"2025-05-21T21:01:59.9670786+05:30","level":"INFO","msg":"sender: started","stream_id":"dw501k11"}
+{"time":"2025-05-21T21:02:00.5711707+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-21T21:02:01.9641127+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-21T21:02:08.5395618+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-21T21:13:08.3015824+05:30","level":"INFO","msg":"Pausing system monitor"}

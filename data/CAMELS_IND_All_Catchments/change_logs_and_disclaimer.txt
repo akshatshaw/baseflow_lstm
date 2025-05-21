@@ -1,0 +1,91 @@
+----------------
+### Disclaimer
+----------------
+The CAMELS-IND dataset is openly accessible for academic and research purposes.
+While efforts have been made to ensure data accuracy, the authors do not take any responsibility for errors, omissions, or misuse of the data.
+Users must cite the CAMELS-IND data description article when utilizing the dataset and acknowledge that all interpretations and conclusions drawn from the data are their own.
+We encourage users to cite/acknowledge the original data sources wherever required based on the source data usage policies.
+The dataset is provided "as is" without any warranties, and users are advised to check for updates.
+It is strongly recommended that users exercise caution and verify the data before using it for any purpose.
+The authors assume no responsibility for any consequences arising from the use or misuse of this dataset.
+
+
+
+### CAMELS-IND attributes/forcings history
+-------------------------------------------
+--------------------------
+Version 2.2: March 2025
+--------------------------
+Major changes/additions:
+- Updated streamflow observations: CAMELS-IND now includes 242 catchments with streamflow observations for more than 30% of the period between 1980 and 2020.
+Minor changes:
+- Minor correction to the forcing column headings for 'evap_canopy (kg/m²/s)' and 'evap_surface (kg/m²/s)': the units have been updated to (mm/day).
+- Corrections made to the gauge_id mapping for basin codes 12 and 15.
+
+
+--------------------------
+Version 2.1: October 2024
+--------------------------
+Data described in revised ESSD paper - 
+Major changes/additions:
+- The dataset name "CAMELS-INDIA" has been changed back to "CAMELS-IND" to align with the naming convention of other CAMELS datasets.
+- A Python script file “filter_catchment.py” is added to filter-out the subset of the dataset based on flow data availability.
+- "CAMELS_IND_Catchments_Streamflow_Sufficient.zip" contains a subset of 228 catchments with observed streamflow data available for more than 30% of the duration between 1980 and 2020.
+
+
+-------------------------
+Version 2.0: August 2024
+-------------------------
+Data described in ESSD paper - 
+Major changes/additions:
+- The dataset name "CAMELS-IND" has beed changed to "CAMELS-INDIA".
+- All forcing time series have been extended from 01/01/1980 to 31/12/2020.
+- Two new forcings, "pet_gleam" and "aet_gleam", have been added.
+- Several attributes have been added, including gauge elevation, mean drainage path slopes, asynchronicity, gini coefficient, base flow index, stream elasticity, slope of FDC, water table depth, and anthropogenic influence.
+- Available observed streamflow time series has been added for all 472 watersheds for the period 01/01/1980 to 31/12/2020.
+- Regionally trained LSTM model-predicted streamflow has been added for all 472 watersheds for the period 01/01/1980 to 31/12/2020.
+
+Minor changes:
+- Attribute files have been renamed to "camels_India_XXXX.csv"
+
+A short descriptions of all attributes and forcings is provided in CAMELS_INDIA_ATTRIBUTES.xlsx and CAMELS_INDIA_FORCINGS.xlsx.
+The following attributes are included in CAMELS-INDIA 2.0:
+07 attributes : camels_India_name
+16 attributes : camels_India_topo (topography and location)
+39 attributes : camels_India_clim (climate indices)
+73 attributes : camels_India_hydro (hydrological signatures)
+13 attributes : camels_India_land (land cover characteristics)
+28 attributes : camels_India_soil (soil characteristics)
+07 attributes : camels_India_geol (geological characteristics)
+25 attributes : camels_India_anth (anthropogenic influences)
+---------------
+Total: 208 attributes, 19 watershed mean forcings, and LSTM-based predicted streamflow time series.
+
+
+-------------------------
+Version 1.0 : April 2024
+-------------------------
+A short descriptions of all attributes and forcings are described in camels_ind_attributes.xlsx and camels_ind_forcings.xlsx
+Following attributes are included in CAMELS-IND 1.0:
+06 attributes : camels_ind_name
+14 attributes : camels_ind_topo (topography and location)
+36 attributes : camels_ind_clim (climate indices)
+64 attributes : camels_ind_hydro (hydrological signatures)
+13 attributes : camels_ind_land (land cover characteristics)
+27 attributes : camels_ind_soil (soil characteristics)
+07 attributes : camels_ind_geol (geological characteristics)
+13 attributes : camels_ind_anth (anthropogenic influences)
+-------------
+180 attributes in total;
+& 17 watershed mean forcings.
+
+
+------------------------------
+### CONTRIBUTE TO CAMELS-IND
+------------------------------
+If you are working with a data set covering Indian watersheds and would like to contribute watershed averages to CAMELS-IND, please get in touch.
+We are committed to identifying and correcting errors. If you encounter any unrealistic or suspicious values, please notify us as soon as possible. Thank you for your assistance.
+
+Contacts:
+- Nikunj K. Mangukiya (nikk.mangukiya@gmail.com)
+- Ashutosh Sharma (ashutosh.sharma@hy.iitr.ac.in)
