@@ -1,0 +1,12 @@
+{"time":"2025-05-23T02:26:54.7380925+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-05-23T02:26:54.7416687+05:30","level":"INFO","msg":"created symlink","path":"c:\\Users\\AKSHAT SHAW\\OneDrive - iitr.ac.in\\Desktop\\Spark_25_project\\wandb\\run-20250523_022654-fca6l430\\logs\\debug-core.log"}
+{"time":"2025-05-23T02:26:54.9866059+05:30","level":"INFO","msg":"created new stream","id":"fca6l430"}
+{"time":"2025-05-23T02:26:54.9877957+05:30","level":"INFO","msg":"stream: started","id":"fca6l430"}
+{"time":"2025-05-23T02:26:54.9877957+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fca6l430"}
+{"time":"2025-05-23T02:26:54.9877957+05:30","level":"INFO","msg":"handler: started","stream_id":"fca6l430"}
+{"time":"2025-05-23T02:26:54.9877957+05:30","level":"INFO","msg":"sender: started","stream_id":"fca6l430"}
+{"time":"2025-05-23T02:26:55.6338948+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-23T02:26:56.6034422+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-23T02:26:59.4560425+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-23T02:26:59.4577329+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-23T02:27:00.164623+05:30","level":"INFO","msg":"Resuming system monitor"}
