@@ -1,0 +1,18 @@
+# Core data science libraries
+pandas 
+numpy 
+
+# Visualization libraries
+matplotlib 
+seaborn 
+
+# Machine learning libraries
+scikit-learn
+
+# Dimensionality reduction
+umap
+
+# Neural network for GNG clustering
+neupy
+
+

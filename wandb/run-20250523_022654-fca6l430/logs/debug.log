@@ -28,3 +28,5 @@ config: {'epochs': 1000, 'batch_size': 64, 'lr': 0.0001, 'optimizer': 'Adam', 'l
 2025-05-23 02:26:59,456 INFO    MainThread:25712 [jupyter.py:save_ipynb():386] not saving jupyter notebook
 2025-05-23 02:26:59,456 INFO    MainThread:25712 [wandb_init.py:_pause_backend():439] pausing backend
 2025-05-23 02:27:00,162 INFO    MainThread:25712 [wandb_init.py:_resume_backend():444] resuming backend
+2025-05-23 02:42:28,454 INFO    MainThread:25712 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 02:42:28,456 INFO    MainThread:25712 [wandb_init.py:_pause_backend():439] pausing backend

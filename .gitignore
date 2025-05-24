@@ -1,1 +1,5 @@
-*data/
+# Data folders and files
+data/
+
+# Virtual environment
+venv/
