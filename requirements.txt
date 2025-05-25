@@ -14,5 +14,6 @@ umap
 
 # Neural network for GNG clustering
 neupy
-
+folium
+geopandas
 
