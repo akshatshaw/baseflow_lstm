@@ -1,0 +1,4 @@
+method,n_clusters,silhouette_score,noise_points
+K-means,4,0.5068757,0
+Enhanced GNG,4,0.40572062,0
+Gaussian Mixture,3,0.51774305,0

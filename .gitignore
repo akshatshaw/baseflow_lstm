@@ -3,4 +3,5 @@ data/
 
 # Virtual environment
 venv/
-output/dynamic/
+output/static_dynamic_merged/
+output/merged_clustered/

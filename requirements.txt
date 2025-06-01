@@ -16,4 +16,5 @@ umap
 neupy
 folium
 geopandas
+hdbscan
 
