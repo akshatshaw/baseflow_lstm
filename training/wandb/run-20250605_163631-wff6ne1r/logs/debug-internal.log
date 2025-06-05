@@ -1,0 +1,8 @@
+{"time":"2025-06-05T16:36:31.9725987+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-06-05T16:36:31.9731071+05:30","level":"INFO","msg":"created symlink","path":"c:\\Users\\AKSHAT SHAW\\OneDrive - iitr.ac.in\\Desktop\\Spark_25_project\\training\\wandb\\run-20250605_163631-wff6ne1r\\logs\\debug-core.log"}
+{"time":"2025-06-05T16:36:32.1098993+05:30","level":"INFO","msg":"created new stream","id":"wff6ne1r"}
+{"time":"2025-06-05T16:36:32.1104345+05:30","level":"INFO","msg":"stream: started","id":"wff6ne1r"}
+{"time":"2025-06-05T16:36:32.1104345+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wff6ne1r"}
+{"time":"2025-06-05T16:36:32.1104345+05:30","level":"INFO","msg":"handler: started","stream_id":"wff6ne1r"}
+{"time":"2025-06-05T16:36:32.1104345+05:30","level":"INFO","msg":"sender: started","stream_id":"wff6ne1r"}
+{"time":"2025-06-05T16:36:32.7317382+05:30","level":"INFO","msg":"Starting system monitor"}
