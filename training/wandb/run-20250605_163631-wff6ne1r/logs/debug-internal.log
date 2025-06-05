@@ -6,3 +6,16 @@
 {"time":"2025-06-05T16:36:32.1104345+05:30","level":"INFO","msg":"handler: started","stream_id":"wff6ne1r"}
 {"time":"2025-06-05T16:36:32.1104345+05:30","level":"INFO","msg":"sender: started","stream_id":"wff6ne1r"}
 {"time":"2025-06-05T16:36:32.7317382+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-05T16:36:33.9022597+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-05T16:36:34.0622669+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-05T16:36:34.0643871+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-05T16:37:00.375694+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-05T16:37:00.4153465+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-05T16:37:07.3079515+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-05T16:37:07.3111102+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-05T16:37:09.3532529+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-05T16:47:04.3589924+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.81.14.130:52915->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2025-06-05T16:47:19.3379616+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.81.14.130:53234->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2025-06-05T16:54:45.239339+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-05T17:00:49.9261766+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.81.14.130:53239->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2025-06-05T17:01:04.8816717+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.81.14.130:53756->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
