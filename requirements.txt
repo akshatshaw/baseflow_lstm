@@ -13,8 +13,10 @@ scikit-learn
 umap
 
 # Neural network for GNG clustering
-neupy
+# neupy
 folium
 geopandas
 hdbscan
 
+pytorch_forecasting
+pytorch_lightning
