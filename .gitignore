@@ -5,3 +5,4 @@ data/
 venv/
 output/static_dynamic_merged/
 output/merged_clustered/output/
+output/
